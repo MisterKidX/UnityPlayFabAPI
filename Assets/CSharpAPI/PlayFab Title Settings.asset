@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b075fd20a44c035488bccc9277118192, type: 3}
   m_Name: PlayFab Title Settings
   m_EditorClassIdentifier: 
-  _titleID: 
+  _titleID: C13A4
