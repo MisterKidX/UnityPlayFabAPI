@@ -8,7 +8,7 @@ namespace PlayFabAPI.Management
     public class TitleSettingsSO : ScriptableObject
     {
         [SerializeField]
-        string _titleID;
+        string _titleID = "";
         public string TitleID => _titleID;
     }
 }
