@@ -1,0 +1,15 @@
+{
+    "name": "PlayFabAPI.Login",
+    "references": [
+        "GUID:d440788ad7ec4f840ad63de792a569d9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

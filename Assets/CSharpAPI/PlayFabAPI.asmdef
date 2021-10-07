@@ -1,0 +1,15 @@
+{
+    "name": "PlayFabAPI",
+    "references": [
+        "GUID:b910b77e55364c940a37282894c03adc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
