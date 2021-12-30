@@ -8,7 +8,10 @@
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
-  "url" : "https://github.com/MisterKidX/UnityPlayFabAPI.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mob-sakai/UpmGitExtension.git"
+  },
  "keywords": [
     "keyword1",
     "keyword2",
