@@ -8,10 +8,7 @@
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
-  "dependencies": {
-    "com.DBD.some-package": "1.0.0",
-    "com.DBD.other-package": "2.0.0"
- },
+  "url" : "https://github.com/MisterKidX/UnityPlayFabAPI.git",
  "keywords": [
     "keyword1",
     "keyword2",
