@@ -1,5 +1,5 @@
 {
-  "name": "com.DBD.NAME",
+  "name": "com.dbd.name",
   "version": "1.2.3",
   "displayName": "Package Example",
   "description": "This is an example package",
@@ -10,7 +10,7 @@
   "licensesUrl": "https://example.com/licensing.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mob-sakai/UpmGitExtension.git"
+    "url": "https://github.com/MisterKidX/UnityPlayFabAPI.git"
   },
  "keywords": [
     "keyword1",
